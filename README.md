@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GabRod22
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to use streamlit
-- 💞️ I’m looking to collaborate on DOTr
 - 📫 How to reach me sherwin.gabriel22@gmail.com
 
 <!---
